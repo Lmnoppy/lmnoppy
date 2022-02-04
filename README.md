@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<p align="center"> <a href="https://twitter.com/lmnoppy" target="blank"><img src="https://img.shields.io/twitter/follow/lmnoppy?logo=twitter&style=for-the-badge" alt="lmnoppy" /></a> </p>
 <!--
 **Lmnoppy/lmnoppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
