@@ -1,6 +1,6 @@
 <p align="center"> <a href="https://twitter.com/lmnoppy" target="blank"><img src="https://img.shields.io/twitter/follow/lmnoppy?logo=twitter&style=for-the-badge" alt="lmnoppy" /></a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmnoppy&layout=compact)](https://github.com/lmnoppy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmnoppy&layout=compact&theme=dracula)](https://github.com/lmnoppy/github-readme-stats)
 <!--
 **Lmnoppy/lmnoppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
